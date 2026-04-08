@@ -1,2 +1,2 @@
 # odinrecipe
-Project Recipes from the Odin Project
+That's no exacly my firt project, but is the fist time I'm going to complete one. My english is so bad, but I'am learning everyday while learning coding. In this project I expect show my every knowledge about HTML and CSS.
